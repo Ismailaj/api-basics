@@ -22,6 +22,7 @@ btn.addEventListener('click', (e) => {
           
         `
       });
+      productId = "";
 });
 
 // fetch('https://fakestoreapi.com/products/1')
